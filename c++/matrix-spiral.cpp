@@ -3,7 +3,6 @@ using namespace std;
 
 vector<int> spiralOrder(const vector<vector<int> > &A) {
 	vector<int> result;
-	// DO STUFF HERE AND POPULATE result
 	int dir = 1, rowt = 0, rowb = A.size()-1, colr = A[0].size()-1, coll = 0;
 	/*
 	0 - left
