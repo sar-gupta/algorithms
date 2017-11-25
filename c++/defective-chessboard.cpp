@@ -39,5 +39,5 @@ int findTiles (int top_r, int top_c, int def_r, int def_c, int size) {
 }
 
 int main() {
-    cout<<findTiles (0,0,2,0,4);
+    cout<<findTiles (0,0,2,0,8);
 }
