@@ -9,6 +9,9 @@ the contiguous subarray [4,-1,2,1] has the largest sum = 6.
 
 For this problem, return the maximum sum.
 */
+
+// KADANE'S ALGORITHM
+
 #include<bits/stdc++.h>
 using namespace std;
 
